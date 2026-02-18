@@ -16,8 +16,6 @@ cd GhostIp
 chmod +x install.sh
 sudo ./install.sh
 ```
-Select Y when prompted to install.
-
 
 ## How to run!!!
 
