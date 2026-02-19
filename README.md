@@ -41,3 +41,6 @@ sudo fuser -k 9050/tcp
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-monji024-181717?style=flat-square&logo=github)](https://github.com/monji024)
 - **Project**: [![Repo](https://img.shields.io/badge/Repository-GhostIp-blue?style=flat-square&logo=github)](https://github.com/monji024/GhostIp)
 
+
+## License
+[MIT](LICENSE) © monji
