@@ -2,7 +2,6 @@
 
 [![Ruby](https://img.shields.io/badge/Ruby-3.0%2B-red)](https://www.ruby-lang.org)
 [![Tor](https://img.shields.io/badge/Tor-Required-blue)](https://www.torproject.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 
 GhostIp changes your IP address via the Tor network:)
