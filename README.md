@@ -6,7 +6,7 @@
 
 GhostIp changes your IP address via the Tor network:)
 
-https://github.com/monji024/GhostIp/raw/main/Ghost.gif
+![Demo](https://github.com/monji024/GhostIp/raw/main/Ghost.gif)
 
 ## Quick Installation
 
