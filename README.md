@@ -6,6 +6,8 @@
 
 GhostIp changes your IP address via the Tor network:)
 
+Attention, it slows down the internet speed!
+
 ![Demo](https://github.com/monji024/GhostIp/raw/main/Ghost.gif)
 
 ## Quick Installation
