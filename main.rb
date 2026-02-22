@@ -7,7 +7,7 @@
 $stdout.sync = true
 Signal.trap("INT") { puts "\n\u001b[1;31m ended \u001b[0m"; exit }
 
-class GhostRider
+class GhostIp
   PROXY_ADDR = '127.0.0.1'.freeze
   PROXY_PORT = 9050.freeze
   CHECK_URI  = 'http://checkip.amazonaws.com'.freeze
@@ -105,6 +105,6 @@ class GhostRider
 end
 
 if __FILE__ == $0
-  rider = GhostRider.new
-  rider.engage
+  _ip = GhostIp.new
+  _ip.engage
 end
