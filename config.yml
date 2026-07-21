@@ -1,0 +1,16 @@
+proxy_addr: 127.0.0.1
+proxy_port: 9050
+control_port: 9051
+check_urls:
+  - http://checkip.amazonaws.com
+  - https://api.ipify.org
+  - https://icanhazip.com
+  - https://ifconfig.me/ip
+geo_url: http://ip-api.com/json/
+interval: 60
+count: 0
+max_retries: 3
+retry_backoff: 2
+log_file: /tmp/ghostip.log
+kill_switch: false
+notify_on_fail: true
